@@ -56,5 +56,3 @@ const AppBarChart = () => {
 };
 
 export default AppBarChart;
-
-// 1:08:50
