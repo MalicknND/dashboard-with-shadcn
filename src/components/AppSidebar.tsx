@@ -77,7 +77,7 @@ const AppSidebar = () => {
       <SidebarHeader className="py-4">
         <SidebarMenu>
           <SidebarMenuButton asChild>
-            <Link href="/">
+            <Link href="/#">
               <Image
                 src="/logo.jpeg"
                 alt="logo"
@@ -121,7 +121,7 @@ const AppSidebar = () => {
             <SidebarMenu>
               <SidebarMenuItem>
                 <SidebarMenuButton asChild>
-                  <Link href="/projects/1">
+                  <Link href="/#">
                     <Projector />
                     See All Projects
                   </Link>
@@ -129,7 +129,7 @@ const AppSidebar = () => {
               </SidebarMenuItem>
               <SidebarMenuItem>
                 <SidebarMenuButton asChild>
-                  <Link href="/projects/1">
+                  <Link href="/#">
                     <Plus />
                     Add Project
                   </Link>
@@ -154,7 +154,7 @@ const AppSidebar = () => {
                 <SidebarMenu>
                   <SidebarMenuItem>
                     <SidebarMenuButton asChild>
-                      <Link href="/projects/1">
+                      <Link href="/#">
                         <Projector />
                         See All Projects
                       </Link>
@@ -162,7 +162,7 @@ const AppSidebar = () => {
                   </SidebarMenuItem>
                   <SidebarMenuItem>
                     <SidebarMenuButton asChild>
-                      <Link href="/projects/1">
+                      <Link href="/#">
                         <Plus />
                         Add Project
                       </Link>
@@ -181,7 +181,7 @@ const AppSidebar = () => {
             <SidebarMenu>
               <SidebarMenuItem>
                 <SidebarMenuButton asChild>
-                  <Link href="/projects/1">
+                  <Link href="/#">
                     <Projector />
                     See All Projects
                   </Link>
